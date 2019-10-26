@@ -1,0 +1,3 @@
+[submodule "pic_template.X/canlib"]
+	path = pic_template.X/canlib
+	url = git@github.com:waterloo-rocketry/canlib.git
