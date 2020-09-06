@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name tutorial)(type Legacy)(uri /Users/alexm/dev/tutorial_brds/tutorial/tutorial.lib)(options "")(descr ""))
+  (lib (name tutorial-rescue)(type Legacy)(uri ${KIPRJMOD}/tutorial-rescue.lib)(options "")(descr ""))
 )
