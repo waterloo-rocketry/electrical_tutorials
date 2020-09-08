@@ -30,7 +30,7 @@ U 1 1 5F540ABC
 P 7950 2650
 F 0 "BT1" H 8068 2746 50  0000 L CNN
 F 1 "Battery_Holder" H 8068 2655 50  0000 L CNN
-F 2 "Battery:BatteryHolder_Keystone_3002_1x2032" V 7950 2710 50  0001 C CNN
+F 2 "Battery:BatteryHolder_Keystone_1060_1x2032" V 7950 2710 50  0001 C CNN
 F 3 "~" V 7950 2710 50  0001 C CNN
 	1    7950 2650
 	1    0    0    -1  
