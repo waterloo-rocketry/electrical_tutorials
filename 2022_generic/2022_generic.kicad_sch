@@ -811,7 +811,6 @@
     )
   )
 
-
   (junction (at 196.85 88.9) (diameter 0) (color 0 0 0 0)
     (uuid 07109423-82a5-4ff3-a983-0bd0c17d7052)
   )
@@ -1004,6 +1003,10 @@
   (text "2V Vforward\nI = V/R = (3.3 - 2) / 160 = 8 mA" (at 209.55 125.73 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 487730eb-9696-4b32-860b-8ef0b0e9f794)
+  )
+  (text "Potentiometer to sweep\nvoltage from 0 to 3V3" (at 101.6 90.17 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a0c0b0e4-705c-49e1-aaf4-d70a1966e8f2)
   )
   (text "piezo" (at 162.56 115.57 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
