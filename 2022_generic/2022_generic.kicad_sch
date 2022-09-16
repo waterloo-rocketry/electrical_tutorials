@@ -1381,7 +1381,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a1b778f1-9434-43dc-b144-9735c1ab2243)
     (property "Reference" "U1" (id 0) (at 180.34 82.711 0))
-    (property "Value" "PIC16LF15313" (id 1) (at 180.34 85.2479 0))
+    (property "Value" "PIC12LF1501" (id 1) (at 180.34 85.2479 0))
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 177.165 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1672,7 +1672,7 @@
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/a1b778f1-9434-43dc-b144-9735c1ab2243"
-      (reference "U1") (unit 1) (value "PIC16LF15313") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1") (unit 1) (value "PIC12LF1501") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )
